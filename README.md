@@ -124,7 +124,7 @@ Analytics Dashboard: Create an analytics dashboard that provides insights into d
   - step 3: Open the folder the in Andriod studios
   - step 4: USe the Build Function
   - step 5: Run the code
-  - step 6: Finally , you can see the output on your mobile
+  - step 6: Finally, you can see the output on your mobile
 ```
 
 # What's next ?
