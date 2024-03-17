@@ -168,6 +168,3 @@ This project is developed with the intention of promoting sustainability, reduci
 We are committed to continuously improving and updating the app based on user feedback, emerging technologies, and evolving needs in the field of food redistribution. Our future plans include expanding outreach, enhancing features, fostering community engagement, integrating with external platforms, optimizing data analysis, ensuring accessibility and localization, and delivering regular updates to ensure the app remains effective and relevant.
 
 By signing below, we affirm our dedication to the success of this project and our commitment to making a positive impact on society through technology.
-
-Date: 17-03-2024
-This declaration statement summarizes the purpose, development approach, future plans, and commitment of the project team to the food donations app project. Adjust the content as needed to reflect the specifics of your project and team.
