@@ -118,15 +118,13 @@ Analytics Dashboard: Create an analytics dashboard that provides insights into d
 `Java` , `XML`
 
 ## How to run locally 
-- step 1 : clone the repo 
 ```
-- step 2: Connect the laptop with Phone using USB cable
-```
-```
-  - step 2: Open the folder the in Andriod studios
-  - step 3: USe the Build Function
-  - step 4: Run the code
-  - step 5: Finally , you can see the output on your mobile
+  - step 1 : clone the repo 
+  - step 2: Connect the laptop with Phone using USB cable
+  - step 3: Open the folder the in Andriod studios
+  - step 4: USe the Build Function
+  - step 5: Run the code
+  - step 6: Finally , you can see the output on your mobile
 ```
 
 # What's next ?
